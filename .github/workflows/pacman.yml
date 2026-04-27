@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
+      - name: Generate pacman-style contribution graph
         uses: Platane/snk@v3
         with:
           github_user_name: vipinchaudhry
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman.svg?palette=github-dark&color_snake=#FFD700&color_dots=#00FFAA,#00CCFF,#FF00FF,#FF0000
+            dist/pacman-light.svg?palette=github-light&color_snake=#FFD700&color_dots=#00FFAA,#00CCFF,#FF00FF,#FF0000
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
