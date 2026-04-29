@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgresql,docker,git,githubactions,pytorch,tensorflow" height="60" />
+  <img src="https://skillicons.dev/icons?i=py,postgresql,docker,git,githubactions,pytorch" height="60" />
 </div>
 
 
