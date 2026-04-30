@@ -16,6 +16,7 @@
 ## Projects
 
 ### Gaffer’s Ear
+[GitHub Page](https://github.com/vipinchaudhry/gaffersear)
 
 <div>
   <img src="https://img.shields.io/badge/Status-Planned-grey?style=for-the-badge"/>
