@@ -19,12 +19,12 @@
 [GitHub Page](https://github.com/vipinchaudhry/gaffersear)
 
 <div>
-  <img src="https://img.shields.io/badge/Status-Planned-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-In Progress-grey?style=for-the-badge"/>
 </div>
 
 - Football analytics platform (Top 5 European leagues)  
 - Planned focus: performance metrics, predictions, and data pipelines  
-- Not started yet  
+- In progress  
 
 <br></br>
 
