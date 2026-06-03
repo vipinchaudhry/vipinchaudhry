@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Status-In Progress-grey?style=for-the-badge"/>
 </div>
 
-- Football analytics platform (Top 5 European leagues)  
+- Football analytics platform (Currently PL only)  
 - Planned focus: performance metrics, predictions, and data pipelines  
 - In progress  
 
