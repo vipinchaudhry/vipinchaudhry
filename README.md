@@ -12,7 +12,7 @@
 
 B.I.E Student at TUM Campus Heilbronn, buildings things at the intersection of software and data. Currently figuring out my lane between SWE, cybersecurity, and AI - letting the projects decide.
 
-I'm currently working on **Gaffer's Ear - a football analytics app for Europe's top 5 leagues** learning **FastAPI, React, Tailwind, Redis, and Railway**.
+I'm currently working on learning full stack by building **Gaffer's Ear - a football analytics app for Europe's top 5 leagues**.
 I'm looking to collaborate on **Anything cybersecurity or AI adjacent**
 
 ### Tech Stack
