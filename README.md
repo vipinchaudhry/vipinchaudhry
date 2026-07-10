@@ -54,7 +54,18 @@ I'm looking to collaborate on **Anything cybersecurity or AI adjacent**
 
 <br></br>
 
+### Ecozeno
+[GitHub Page](https://github.com/vipinchaudhry/ecozeno-website)
 
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</div>
+
+- Static information website built for a local business
+- Responsive design with React, TypeScript, and Tailwind CSS
 
 <br></br>
 
